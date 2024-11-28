@@ -4,7 +4,7 @@ FoodieBot curates meals to satisfy every craving, helping you discover, order, a
 ## 📊 Chatbot Development Flowchart  
 
 To provide insight into how **FoodieBot** was developed, I’ve included a flowchart that outlines the process step-by-step. This flowchart showcases the key stages, from ideation to deployment using **Watsonx.ai Studio**.
-'C:\Users\palsh\Downloads\foodiebot.jpeg'
+(C:\Users\palsh\Downloads\foodiebot.jpeg)
 
 
 # How to Use ?
