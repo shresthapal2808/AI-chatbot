@@ -7,7 +7,7 @@ FoodieBot curates meals to satisfy every craving, helping you discover, order, a
 Add FoodieBot to your contacts:  
 **📞 +1 (415) 523-8886**
 
-### 2. Send ** "join talk-breathe" **
+### 2. Send **"join talk-breathe"**
 
 ### 3. **Send Hi and start the conversation**
 
